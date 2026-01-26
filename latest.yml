@@ -1,8 +1,8 @@
-version: 1.1.0
+version: 1.2.0
 files:
-  - url: JAX_Setup_1.1.0.exe
-    sha512: Z1Yvn1H90VyXWjP5icNJL/rM4KOq337dOeW6eYQe7pwYWsHSLPJfnX/qQEcN1o1F/PIY58yPz1KxRZNzMoP57Q==
-    size: 108718987
-path: JAX_Setup_1.1.0.exe
-sha512: Z1Yvn1H90VyXWjP5icNJL/rM4KOq337dOeW6eYQe7pwYWsHSLPJfnX/qQEcN1o1F/PIY58yPz1KxRZNzMoP57Q==
-releaseDate: '2026-01-26T14:50:00.403864+00:00'
+  - url: JAX_Setup_1.2.0.exe
+    sha512: EdMlzVxyOyLEDaSSCruFFYNcpfMvh9YS0uM0LEqCucYLSiOsaYrTpfjBd5mEvhMqHXlc3t8jujlY5zhaa+x+Yg==
+    size: 108722368
+path: JAX_Setup_1.2.0.exe
+sha512: EdMlzVxyOyLEDaSSCruFFYNcpfMvh9YS0uM0LEqCucYLSiOsaYrTpfjBd5mEvhMqHXlc3t8jujlY5zhaa+x+Yg==
+releaseDate: '2026-01-26T20:26:06.228228+00:00'
